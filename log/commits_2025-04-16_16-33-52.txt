@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+b032e0a - Israel Conejero, 27 seconds ago : Test: activant gitaction amb push
+9ab5f8a - GitHub Actions, 8 minutes ago : Auto: Add latest commits log
+637add8 - Israel Conejero, 17 minutes ago : Commit inicial: afegim l'script Go i el Github Action
